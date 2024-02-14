@@ -1,0 +1,10 @@
+.headings {
+  color: #000;
+  font-size: 45px;
+}
+
+.each-carousel {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
